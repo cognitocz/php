@@ -1,4 +1,4 @@
-FROM webuni/php:7.2-base
+FROM cognitocz/php:7.2-base
 LABEL maintainer="Martin Hasoň <martin.hason@gmail.com>"
 
 RUN apk --update add \
